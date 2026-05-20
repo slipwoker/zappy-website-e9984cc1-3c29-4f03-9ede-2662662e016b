@@ -1,0 +1,83 @@
+# שי סהר מטפל בריברסינג ( נשימה מעגלית) — Generative Engine Optimization Map
+
+> A personal, modern, and emotionally resonant website for a Rebirthing (circular breathing) therapist. The brand identity is calm, deep, human, safe, and authentic — grounded rather than overly spiritual. The therapist's core philosophy is that 'the breath does the work' — they hold a safe and peaceful space and allow the body to lead the healing process. The site should evoke a sense of genuine understanding and human connection, making visitors feel truly seen and heard.
+
+---
+
+## Pages
+
+### בית
+https://-e9984cc1.zappy5.app
+שי סהר מלווה אותך בתהליך ריברסינג נשימה מעגלית עמוק ואישי. הגוף יודע לרפא את עצמו — צריך רק מרחב בטוח ונשימה אחת. התחל את המסע שלך היום.
+
+### אודות
+https://-e9984cc1.zappy5.app/about
+שי סהר הוא מטפל ריברסינג בישראל המאמין שהנשימה עושה את העבודה. הכר את הגישה האנושית, הרגועה והאותנטית שמאחורי כל טיפול — כי חשוב לדעת מי מחזיק אותך.
+
+### ריברת'ינג
+https://-e9984cc1.zappy5.app/rebirthing
+ריברסינג נשימה מעגלית הוא טיפול עמוק לשחרור טראומה, לחץ ומתחים דרך הנשימה הטבעית של הגוף. גלה כיצד תהליך אחד יכול לשנות את מה שמילים לא הצליחו לגעת בו.
+
+### צור קשר
+https://-e9984cc1.zappy5.app/contact
+מוכן לפגוש את עצמך מחדש? צור קשר עם שי סהר לתיאום טיפול ריברסינג נשימה מעגלית. כל מסע של שינוי מתחיל בהחלטה קטנה אחת — שלח הודעה ותראה מה אפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e9984cc1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e9984cc1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e9984cc1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-e9984cc1.zappy5.app/contact
+- Endpoint: https://-e9984cc1.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שי סהר מטפל בריברסינג ( נשימה מעגלית)
+A personal, modern, and emotionally resonant website for a Rebirthing (circular breathing) therapist. The brand identity is calm, deep, human, safe, and authentic — grounded rather than overly spiritual. The therapist's core philosophy is that 'the breath does the work' — they hold a safe and peaceful space and allow the body to lead the healing process. The site should evoke a sense of genuine understanding and human connection, making visitors feel truly seen and heard.
+
+## Target Audience
+- אנשים המחפשים ריפוי רגשי, צמיחה אישית ועבודה עמוקה עם הגוף והנפש
+- מחפשי ריפוי רגשי
+- אנשי מקצוע בתחום הבריאות
+- מחפשי ניהול מתחים
+- חובבי מיינדפולנס
+- לשחרור טראומות לחצים
+- מתאים מגיל 18 ומעלה
+- כול מי שרוצה לעשות שינו בחיים ולשחרר לחץ ומתחים
+
+## Industry
+Alternative Therapy / Breathwork
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-e9984cc1.zappy5.app/sitemap.xml
+- Robots: https://-e9984cc1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-e9984cc1.zappy5.app/llms-full.txt
