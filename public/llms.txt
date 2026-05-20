@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-e9984cc1.zappy5.app
+https://example.com
 שי סהר מלווה אותך בתהליך ריברסינג נשימה מעגלית עמוק ואישי. הגוף יודע לרפא את עצמו — צריך רק מרחב בטוח ונשימה אחת. התחל את המסע שלך היום.
 
 ### אודות
-https://-e9984cc1.zappy5.app/about
+https://example.com/about
 שי סהר הוא מטפל ריברסינג בישראל המאמין שהנשימה עושה את העבודה. הכר את הגישה האנושית, הרגועה והאותנטית שמאחורי כל טיפול — כי חשוב לדעת מי מחזיק אותך.
 
 ### ריברת'ינג
-https://-e9984cc1.zappy5.app/rebirthing
+https://example.com/rebirthing
 ריברסינג נשימה מעגלית הוא טיפול עמוק לשחרור טראומה, לחץ ומתחים דרך הנשימה הטבעית של הגוף. גלה כיצד תהליך אחד יכול לשנות את מה שמילים לא הצליחו לגעת בו.
 
 ### צור קשר
-https://-e9984cc1.zappy5.app/contact
+https://example.com/contact
 מוכן לפגוש את עצמך מחדש? צור קשר עם שי סהר לתיאום טיפול ריברסינג נשימה מעגלית. כל מסע של שינוי מתחיל בהחלטה קטנה אחת — שלח הודעה ותראה מה אפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-e9984cc1.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-e9984cc1.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-e9984cc1.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-e9984cc1.zappy5.app/contact
-- Endpoint: https://-e9984cc1.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Alternative Therapy / Breathwork
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-e9984cc1.zappy5.app/sitemap.xml
-- Robots: https://-e9984cc1.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-e9984cc1.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

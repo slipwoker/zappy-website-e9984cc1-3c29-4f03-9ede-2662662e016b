@@ -2,13 +2,13 @@
 
 A personal, modern, and emotionally resonant website for a Rebirthing (circular breathing) therapist. The brand identity is calm, deep, human, safe, and authentic — grounded rather than overly spiritual. The therapist's core philosophy is that 'the breath does the work' — they hold a safe and peaceful space and allow the body to lead the healing process. The site should evoke a sense of genuine understanding and human connection, making visitors feel truly seen and heard.
 
-Source: https://-e9984cc1.zappy5.app
+Source: https://example.com
 
 ---
 
 ## ריברסינג נשימה מעגלית — שי סהר מטפל בריברסינג ( נשימה מעגלית
 
-URL: https://-e9984cc1.zappy5.app
+URL: https://example.com
 Description: שי סהר מלווה אותך בתהליך ריברסינג נשימה מעגלית עמוק ואישי. הגוף יודע לרפא את עצמו — צריך רק מרחב בטוח ונשימה אחת. התחל את המסע שלך היום.
 
 ריברסינג נשימה מעגלית — שי סהר מטפל בריברסינג ( נשימה מעגלית
@@ -470,7 +470,7 @@ Description: שי סהר מלווה אותך בתהליך ריברסינג נש�
 
 ## האדם שמחזיק את המרחב עבורך — שי סהר מטפל בריברסינג ( נשימה מעגלית)
 
-URL: https://-e9984cc1.zappy5.app/about
+URL: https://example.com/about
 Description: שי סהר הוא מטפל ריברסינג בישראל המאמין שהנשימה עושה את העבודה. הכר את הגישה האנושית, הרגועה והאותנטית שמאחורי כל טיפול — כי חשוב לדעת מי מחזיק אותך.
 
 האדם שמחזיק את המרחב עבורך — שי סהר מטפל בריברסינג ( נשימה מעגלית)
@@ -887,7 +887,7 @@ Description: שי סהר הוא מטפל ריברסינג בישראל המאמ�
 
 ## שחרר מה שנתקע בגוף שלך — שי סהר מטפל בריברסינג ( נשימה מעגלית)
 
-URL: https://-e9984cc1.zappy5.app/rebirthing
+URL: https://example.com/rebirthing
 Description: ריברסינג נשימה מעגלית הוא טיפול עמוק לשחרור טראומה, לחץ ומתחים דרך הנשימה הטבעית של הגוף. גלה כיצד תהליך אחד יכול לשנות את מה שמילים לא הצליחו לגעת בו.
 
 שחרר מה שנתקע בגוף שלך — שי סהר מטפל בריברסינג ( נשימה מעגלית)
@@ -1392,7 +1392,7 @@ Description: ריברסינג נשימה מעגלית הוא טיפול עמוק
 
 ## הצעד הראשון מתחיל בנשימה אחת — שי סהר מטפל בריברסינג ( נשימה מעגלית)
 
-URL: https://-e9984cc1.zappy5.app/contact
+URL: https://example.com/contact
 Description: מוכן לפגוש את עצמך מחדש? צור קשר עם שי סהר לתיאום טיפול ריברסינג נשימה מעגלית. כל מסע של שינוי מתחיל בהחלטה קטנה אחת — שלח הודעה ותראה מה אפשרי.
 
 הצעד הראשון מתחיל בנשימה אחת — שי סהר מטפל בריברסינג ( נשימה מעגלית)
@@ -1714,7 +1714,7 @@ Description: מוכן לפגוש את עצמך מחדש? צור קשר עם שי
 
 ## מדיניות פרטיות
 
-URL: https://-e9984cc1.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1977,7 +1977,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-e9984cc1.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2249,7 +2249,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-e9984cc1.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
